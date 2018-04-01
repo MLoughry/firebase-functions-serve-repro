@@ -1,0 +1,8 @@
+{
+  "name": "firebase-functions-serve-repro",
+  "version": "1.0.0",
+  "description": "Repro for https://github.com/firebase/firebase-tools/issues/711",
+  "main": "index.js",
+  "author": "Michael Loughry <miclo@microsoft.com>",
+  "license": "MIT"
+}
